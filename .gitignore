@@ -1,0 +1,12 @@
+gradlew
+gradlew.bat
+mvnw
+mvnw.cmd
+.mvn
+.settings
+gradle
+target
+.classpath
+.project
+build.gradle
+docker-compose.yml
